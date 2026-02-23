@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Gabriel%20Godoy&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Técnico%20Administrador%20de%20Sistemas%20|%20Ciberseguridad&descAlignY=55&descSize=20&animation=twinkling&bg_color=0d1117" width="100%"/>
 
-# 👋 Hola, soy Gabri Go2y
+# 👋 Hola, soy Gabri
 
 **Técnico de Sistemas (ASIR + SMR) | Cursando Máster en `Ciberseguridad`**
 
